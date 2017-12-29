@@ -52,6 +52,7 @@ education:
     startDate: "2003-01-01"
     endDate: "2005-05-31"
     courses: []
+    notes: "Graduated with Honors."
   - institution: "Rochester Institute of Technology"
     area: "Computer Science (Specialization in AI)"
     studyType: "Masters"
@@ -59,6 +60,8 @@ education:
     startDate: "2005-09-01"
     endDate: "2007-05-31"
     courses: []
+    thesis: Mutually Adaptive Distributed Heterogeneous
+            Agents for Data Classification.
 
 interests: []
 languages: []
@@ -70,6 +73,15 @@ volunteer: []
 
 work:
   # NOTE: Keeping this ordered oldest -> newest
+  - company: "S.U.N.Y. Research Foundation"
+    location: "Cobleskill, NY"
+    position: "Tutor"
+    startDate: "2001-01-01"
+    endDate: "2002-05-01"
+    summary: |
+      Tutored students in classes such as computer networking, computer
+      programming, mathematics, database design, web
+      design, psychology, and sociology.
   - company: "IBM"
     location: "Poughkeepsie, NY"
     position: "Intern"
@@ -78,7 +90,11 @@ work:
     endDate: "2005-09-14"
     summary: |
       TODO...
-    highlights: []
+    highlights:
+      - Independently developed a Python GUI tool for automated
+        z/OS websphere remote testing.
+      - Exposure to Python, wxPython, Jython, z/OS, remote
+        scripting, test-driven development.
   - company: "Intel"
     location: "Folsom, CA"
     position: "Intern"
@@ -87,7 +103,12 @@ work:
     endDate: "2006-09-14"
     summary: |
       TODO...
-    highlights: []
+    highlights:
+      - Solely designed and developed a mixed language Ruby, C# tool and
+        framework designed to analyze internal graphics instruction
+        files created by the silicon validation team.
+      - Exposure to Ruby, plug-in based development, Ruby
+        and C# interoperation.
   - company: "Yahoo!"
     location: "Sunnyvale, CA"
     position: "Senior Staff Software Engineer"
