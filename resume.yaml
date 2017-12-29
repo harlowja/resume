@@ -67,6 +67,24 @@ skills: []
 volunteer: []
 
 work:
+  - company: "IBM"
+    location: "Poughkeepsie, NY"
+    position: "Intern"
+    website: "http://www.ibm.com/"
+    startDate: "2005-05-01"
+    endDate: "2005-09-14"
+    summary: |
+      TODO...
+    highlights: []
+  - company: "Intel"
+    location: "Folsom, CA"
+    position: "Intern"
+    website: "http://www.intel.com/"
+    startDate: "2006-06-01"
+    endDate: "2006-09-14"
+    summary: |
+      TODO...
+    highlights: []
   - company: "Yahoo!"
     location: "Sunnyvale, CA"
     position: |
