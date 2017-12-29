@@ -67,6 +67,7 @@ skills: []
 volunteer: []
 
 work:
+  # NOTE: Keeping this ordered oldest -> newest
   - company: "IBM"
     location: "Poughkeepsie, NY"
     position: "Intern"
