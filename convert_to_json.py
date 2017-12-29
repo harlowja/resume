@@ -1,11 +1,16 @@
+import argparse
 import json
-import sys
 
 import yaml
 
 
 def main():
-    y_path = sys.argv[1]
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-f", "--file", help="File to convert",
+                        required=True, dest='file')
+    args = parser.parse_args()
+
+    y_path = args.file
     with open(y_path, 'rb') as fh:
         y_contents = fh.read()
         y_data = yaml.safe_load(y_contents)
