@@ -6,7 +6,14 @@ basics:
     email: "harlowja@gmail.com"
     phone: "408-679-7845"
     summary: |
-      TODO: Fill me in.
+      Highly talented engineer with many years of experience in distributed
+      systems, web systems, cloud platforms, opensource sofware and even some
+      artifical intelligence mixed in (a master of some). Always looking to
+      always learn and try new things and help others (junior and
+      senior) become all that they can be. Looking for cloud and distributed
+      systems experience at scale (possible even some artifical intelligence
+      applications thrown in for good measure) and enjoy working with smart
+      and talented other engineers (and even some management as needed).
     location:
       address: "45 Albatross Ct."
       postalCode: "95008"
@@ -17,6 +24,7 @@ basics:
       - network: "LinkedIn"
         username: "jshharlow"
         url: "https://www.linkedin.com/in/jshharlow/"
+
 work: []
 volunteer: []
 education: []
