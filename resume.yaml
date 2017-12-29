@@ -65,7 +65,23 @@ education:
     thesis_url: "http://scholarworks.rit.edu/theses/7888/"
 
 interests: []
-languages: []
+
+languages:
+   - language: English
+     fluency: Fluent
+   # This seems odd to put computer languages in here, but whatever they
+   # are languages, haha
+   - language: Python
+     fluency: Fluent
+   - language: Java
+     fluency: Fluent (but rusty)
+   - language: C++
+     fluency: Fluent (but rusty)
+   - language: C#
+     fluency: Fluent (but very rusty)
+   - language: C#
+     fluency: Intermediate (but very rusty)
+
 projects: []
 publications: []
 references: []
