@@ -4,7 +4,7 @@ basics:
     name: "Joshua Harlow"
     label: "Senior Staff Software Engineer"
     email: "harlowja@gmail.com"
-    phone: "408-679-7845"
+    phone: "(408) 679-7845"
     summary: |
       Highly talented engineer with many years of experience in distributed
       systems, web systems, cloud platforms, opensource sofware and even some
@@ -19,7 +19,7 @@ basics:
       and even some management as needed ;)
     location:
       address: "45 Albatross Ct."
-      postalCode: "95008"
+      postalCode: "CA 95008"
       city: "Campbell"
       countryCode: "US"
       region: "California"
@@ -43,7 +43,28 @@ publications: []
 references: []
 skills: []
 volunteer: []
-work: []
+work:
+  - company: "Yahoo!"
+    location: "Sunnyvale, CA"
+    position: |
+        Junior Software Engineer (2007)
+        to Senior Software Engineer (2010) to
+        Staff Software Engineer (2012) to
+        Senior Staff Software Engineer (2015)
+    website: "http://www.yahoo.com/"
+    startDate: 2007-08-27
+    endDate: 2016-03-14
+    summary: |
+      TODO...
+    highlights: []
+  - company: "GoDaddy"
+    location: "Sunnyvale, CA"
+    position: "Senior Staff Software Engineer"
+    website: "http://www.godaddy.com/"
+    startDate: 2016-04-01
+    summary: |
+      TODO...
+    highlights: []
 
 meta:
     canonical: "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json"
