@@ -90,5 +90,8 @@ work:
     highlights: []
 
 meta:
+    # TODO: we might need to modify this locally since changes into this schema
+    # take forever and it has a somewhat not-perfect format (especially for
+    # myself).
     canonical: "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
     version: "v1.0.0"
