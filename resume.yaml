@@ -90,11 +90,11 @@ work:
     highlights: []
   - company: "Yahoo!"
     location: "Sunnyvale, CA"
-    position: |
-        Junior Software Engineer (2007)
-        to Senior Software Engineer (2010) to
-        Staff Software Engineer (2012) to
-        Senior Staff Software Engineer (2015)
+    position: "Senior Staff Software Engineer"
+    prior_positions:
+      - "Junior Software Engineer"
+      - "Senior Software Engineer"
+      - "Staff Software Engineer"
     website: "http://www.yahoo.com/"
     startDate: "2007-08-27"
     endDate: "2016-03-14"
