@@ -9,12 +9,14 @@ basics:
       Highly talented engineer with many years of experience in distributed
       systems, web systems, cloud platforms, opensource sofware and even some
       artifical intelligence mixed in (a master of some). I am always looking
-      to learn and develop new technologies, patterns and tooling and
-      enjoy helping others (junior and senior) become all that they can
-      be. Overall I am looking for cloud and distributed
-      systems experience at scale (possibly even some artifical intelligence
-      applications thrown in for good measure) and enjoy working with smart
-      and talented other engineers and even some management as needed ;)
+      to learn and apply new technologies, new patterns and build systems
+      and tooling (especially at scale). I enjoy helping others (junior
+      and senior) become all that they can be and am happy (and willing
+      and able) to lead others as needed. Overall I am looking for cloud
+      and distributed systems experience at scale (possibly even some
+      artifical intelligence applications thrown in for good
+      measure) and enjoy working with smart and talented other engineers
+      and even some management as needed ;)
     location:
       address: "45 Albatross Ct."
       postalCode: "95008"
@@ -25,6 +27,12 @@ basics:
       - network: "LinkedIn"
         username: "jshharlow"
         url: "https://www.linkedin.com/in/jshharlow/"
+      - network: "Facebook"
+        username: "jshharlow"
+        url: "https://www.facebook.com/jshharlow"
+      - network: "Twitter"
+        username: "jshharlow"
+        url: "https://twitter.com/jshharlow"
 
 awards: []
 education: []
