@@ -1,0 +1,5 @@
+requests
+pyyaml
+restview
+doc8
+jsonschema

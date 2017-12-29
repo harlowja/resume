@@ -1,0 +1,29 @@
+---
+
+basics:
+    name: "Joshua Harlow"
+    label: "Senior Staff Software Engineer"
+    email: "harlowja@gmail.com"
+    phone: "408-679-7845"
+    summary: |
+      TODO: Fill me in.
+    location:
+      address: "45 Albatross Ct."
+      postalCode: "95008"
+      city: "Campbell"
+      countryCode: "US"
+      region: "California"
+    profiles:
+      - network: "LinkedIn"
+        username: "jshharlow"
+        url: "https://www.linkedin.com/in/jshharlow/"
+work: []
+volunteer: []
+education: []
+awards: []
+publications: []
+skills: []
+languages: []
+interests: []
+references: []
+projects: []
