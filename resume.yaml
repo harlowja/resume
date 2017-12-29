@@ -40,22 +40,22 @@ education:
     area: "Computer Science"
     studyType: "Associates (Transferred to Clarkson University)"
     gpa: "3.94/4.0"
-    startDate: 2000-08-31
-    endDate: 2002-12-31
+    startDate: "2000-08-31"
+    endDate: "2002-12-31"
     courses: []
   - institution: "Clarkson University"
     area: "Computer Science (Minor in Mathematics)"
     studyType: "Bachelor"
     gpa: "3.5/4.0"
-    startDate: 2003-01-01
-    endDate: 2005-05-31
+    startDate: "2003-01-01"
+    endDate: "2005-05-31"
     courses: []
   - institution: "Rochester Institute of Technology"
     area: "Computer Science (Specialization in AI)"
     studyType: "Masters"
     gpa: "3.8/4.0"
-    startDate: 2005-09-01
-    endDate: 2007-05-31
+    startDate: "2005-09-01"
+    endDate: "2007-05-31"
     courses: []
 
 interests: []
@@ -75,8 +75,8 @@ work:
         Staff Software Engineer (2012) to
         Senior Staff Software Engineer (2015)
     website: "http://www.yahoo.com/"
-    startDate: 2007-08-27
-    endDate: 2016-03-14
+    startDate: "2007-08-27"
+    endDate: "2016-03-14"
     summary: |
       TODO...
     highlights: []
@@ -84,11 +84,11 @@ work:
     location: "Sunnyvale, CA"
     position: "Senior Staff Software Engineer"
     website: "http://www.godaddy.com/"
-    startDate: 2016-04-01
+    startDate: "2016-04-01"
     summary: |
       TODO...
     highlights: []
 
 meta:
-    canonical: "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json"
+    canonical: "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
     version: "v1.0.0"
