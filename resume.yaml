@@ -75,7 +75,7 @@ languages:
      fluency: Fluent
    - language: Java
      fluency: Fluent (but rusty)
-   - language: C++
+   - language: C/C++
      fluency: Fluent (but rusty)
    - language: C#
      fluency: Fluent (but very rusty)
