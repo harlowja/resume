@@ -79,7 +79,7 @@ languages:
      fluency: Fluent (but rusty)
    - language: C#
      fluency: Fluent (but very rusty)
-   - language: C#
+   - language: Ruby
      fluency: Intermediate (but very rusty)
 
 projects: []
