@@ -35,7 +35,29 @@ basics:
         url: "https://twitter.com/jshharlow"
 
 awards: []
-education: []
+education:
+  - institution: "S.U.N.Y. Cobleskill"
+    area: "Computer Science"
+    studyType: "Associates (Transferred to Clarkson University)"
+    gpa: "3.94/4.0"
+    startDate: 2000-08-31
+    endDate: 2002-12-31
+    courses: []
+  - institution: "Clarkson University"
+    area: "Computer Science (Minor in Mathematics)"
+    studyType: "Bachelor"
+    gpa: "3.5/4.0"
+    startDate: 2003-01-01
+    endDate: 2005-05-31
+    courses: []
+  - institution: "Rochester Institute of Technology"
+    area: "Computer Science (Specialization in AI)"
+    studyType: "Masters"
+    gpa: "3.8/4.0"
+    startDate: 2005-09-01
+    endDate: 2007-05-31
+    courses: []
+
 interests: []
 languages: []
 projects: []
@@ -43,6 +65,7 @@ publications: []
 references: []
 skills: []
 volunteer: []
+
 work:
   - company: "Yahoo!"
     location: "Sunnyvale, CA"
